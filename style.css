@@ -3,12 +3,12 @@ body{
 }
 .one{
     margin: 5rem;
-    width: 350px;
+    width: 800px;
     /* height: 500px; */
     padding: 10px;
     color: #dcd1d1;
     font-size: 14px;
-    background-image:repeating-radial-gradient(rgba(255, 0, 0, 0.632),rgba(0, 0, 255, 0.474)) ,url(images/Screenshot_1.jpg);
+    background-image:repeating-radial-gradient(rgba(255, 0, 0, 0.632),rgba(0, 0, 255, 0.137)) ,url(images/Screenshot_1.jpg);
     /* background-repeat: no-repeat; */
     background-size:cover ;
     background-position: center center;
